@@ -12,7 +12,7 @@ Find the live version of my app here.
 
 
 ## Tools used:
-* Python
+* Python 3.7
   * BeautifulSoup
 
 ## Credits:
