@@ -12,6 +12,8 @@ Find the live version of my app here.
 
 
 ## Tools used:
+* Python
+  * BeautifulSoup
 
 ## Credits:
 
