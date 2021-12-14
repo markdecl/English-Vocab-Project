@@ -17,7 +17,12 @@ I've often found it difficult to remember new words in English that I come acros
 * Python 3.7
   * BeautifulSoup
   * pandas
+  * NLTK
+  * genanki
 
 ## Challenges:
 
 ## Credits:
+* [Wiktionary, the free dictionary](https://en.wiktionary.org/wiki/Wiktionary:Main_Page)
+* [Skell.SketchEngine](https://skell.sketchengine.eu/#home?lang=en)
+* [genanki](https://github.com/kerrickstaley/genanki)
