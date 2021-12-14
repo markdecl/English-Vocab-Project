@@ -7,10 +7,10 @@ I've often found it difficult to remember new words in English that I come acros
 
 ## Features:
 * Multiple prompts on the front of each flashcard:
- * Synonyms
- * Example sentences
- * Dictionary definitions
- * First letter of the word
+   * Synonyms
+   * Example sentences
+   * Dictionary definitions
+   * First letter of the word
 
 ## Tools and technologies used:
 * Python 3.7
