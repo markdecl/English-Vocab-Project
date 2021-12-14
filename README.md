@@ -1,6 +1,6 @@
 # English Vocabulary App
 
-I've often found it difficult to remember new words in English that I come across, so I built a tool that takes as input a list of words in English and outputs a deck of flashcards that I can learn.
+I've often found it difficult to remember new words in English that I come across, so I designed and developed a script that takes as input a list of words in English and outputs a deck of Anki flashcards that can be uploaded to my Anki account and used as studying material.
 
 ## Demo:
 ![Demo](english-flashcards.gif)
