@@ -11,6 +11,7 @@ I've often found it difficult to remember new words in English that I come acros
    * Example sentences
    * Dictionary definitions
    * First letter of the word
+* Colour-coded design for easier reading
 
 ## Tools and technologies used:
 * Python 3.7
