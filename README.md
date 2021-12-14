@@ -24,5 +24,5 @@ I've often found it difficult to remember new words in English that I come acros
 
 ## Credits:
 * [Wiktionary, the free dictionary](https://en.wiktionary.org/wiki/Wiktionary:Main_Page)
-* [Skell.SketchEngine](https://skell.sketchengine.eu/#home?lang=en)
+* [Skell - Sketch Engine for language learning](https://skell.sketchengine.eu/#home?lang=en)
 * [genanki](https://github.com/kerrickstaley/genanki)
