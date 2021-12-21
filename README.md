@@ -21,6 +21,8 @@ I've often found it difficult to remember new words in English that I come acros
   * genanki
 
 ## Challenges:
+* Designing flashcards that give a sufficiently specific prompt for the word being tested
+    * Given the number of synonyms in English, it was difficult to create cards that gave enough context about the given word for it to be clear which word was the correct answer. I decided to use as prompts a combination of synonyms, example sentences, dictionary definitions, and, at the bottom of the page, the first letter of the word.
 
 ## Credits:
 * [Wiktionary, the free dictionary](https://en.wiktionary.org/wiki/Wiktionary:Main_Page)
